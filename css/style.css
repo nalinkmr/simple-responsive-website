@@ -206,7 +206,7 @@ footer{
 	}
 	#logo{
 		margin: 15px 0 20 -25px;
-		background: url(img/logo.svg) no-repeat;
+		background: url(../img/logo.svg) no-repeat left;
 	}
 	#menu-icon{
 		display: inline-block;
